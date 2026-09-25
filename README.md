@@ -49,7 +49,7 @@ It contains the complete workflow from the construction of the input field to th
 
 ## Background
 
-This work was carried out as part of my Bachelor thesis in the **Photonics Laboratory at ETH Zurich**.
+This work was carried out as part of my Bachelor thesis in the **Photonics Laboratory at ETH Zurich,  February–June 2023**.
 
 The broader objective of the thesis was to design an optical setup capable of generating and characterizing a three-dimensional quartic potential. The numerical simulations provided a theoretical basis for selecting the experimental parameters and demonstrated the feasibility of the proposed optical configuration.
 
